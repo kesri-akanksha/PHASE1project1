@@ -12,7 +12,7 @@ DEVELOPER DETAILS
    
 DESIGNATION -- Full stack web developer
 
-DIRECTORY --
+DIRECTORY -- C:\\Users\\AKANKSHA\\eclipse-workspace\\project04_arrayList
 --------------------------------------
 
 FUNCTIONS PERFORMED BY THE APPLICATION:
