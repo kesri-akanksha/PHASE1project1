@@ -9,7 +9,9 @@ APPLICATION NAME -- LockedMe.com
 DEVELOPER DETAILS
 -------------------
    NAME -- Akanksha Keshari 
+   
 DESIGNATION -- Full stack web developer
+
 DIRECTORY --
 --------------------------------------
 
@@ -43,11 +45,12 @@ PROTOTYPE OF THE APPLICATION:
       d)main menu
     3)to exit
     
-as per the entered choice:
+AS PER THE ENTERED CHOICE:
 -----------------------------
 
   1)display all the files name in ascending order
   2)again as per the entered choice
+  
      a)if the file exists it is added to the directory
      b)if the file exists it is deleted from the directory
      c)if the file exists it is shown
@@ -58,4 +61,5 @@ TECHNOLOGIES USED IN THE APPLICATION:
 --------------------------------------
 
 -->ECLIPSE
+
 -->JAVA 8
