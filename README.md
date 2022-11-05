@@ -46,7 +46,8 @@ PROTOTYPE OF THE APPLICATION:
     3)to exit
     
 AS PER THE ENTERED CHOICE:
------------------------------
+
+
 
   1)display all the files name in ascending order
   
