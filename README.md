@@ -4,7 +4,8 @@ VIRTUAL KEY FOR YOUR REPOSITORY
 ---------------------------------
 
 
-APPLICATION NAME -- LockedMe.com     
+APPLICATION NAME -- LockedMe.com  
+
                                      
 DEVELOPER DETAILS
 -------------------
