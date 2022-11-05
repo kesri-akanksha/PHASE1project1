@@ -3,10 +3,14 @@
 VIRTUAL KEY FOR YOUR REPOSITORY
 ---------------------------------
 
---------------------------------------
-APPLICATION NAME -- LockedMe.com     |
-                                     |
-DEVELOPERS NAME -- Akanksha Keshari  |
+
+APPLICATION NAME -- LockedMe.com     
+                                     
+DEVELOPER DETAILS
+-------------------
+   NAME -- Akanksha Keshari 
+DESIGNATION -- Full stack web developer
+DIRECTORY --
 --------------------------------------
 
 FUNCTIONS PERFORMED BY THE APPLICATION:
@@ -28,8 +32,30 @@ PROTOTYPE OF THE APPLICATION:
 
 -->takes a path directory from the user
 
--->asks to choose
-    
+-->MAIN MENU
+
+    select any one: 
     1)to dispaly files
     2)perform business level operations
+      a)add
+      b)delete
+      c)search
+      d)main menu
     3)to exit
+    
+as per the entered choice:
+-----------------------------
+
+  1)display all the files name in ascending order
+  2)again as per the entered choice
+     a)if the file exists it is added to the directory
+     b)if the file exists it is deleted from the directory
+     c)if the file exists it is shown
+     d)back to the main menu
+    
+    
+TECHNOLOGIES USED IN THE APPLICATION:
+--------------------------------------
+
+-->ECLIPSE
+-->JAVA 8
