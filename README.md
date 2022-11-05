@@ -53,7 +53,7 @@ AS PER THE ENTERED CHOICE:
 
   1)display all the files name in ascending order
   
-  2)again as per the entered choice
+  2)as per the entered choice
   
      a)if the file exists it is added to the directory
      b)if the file exists it is deleted from the directory
